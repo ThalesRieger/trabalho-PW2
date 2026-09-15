@@ -1,0 +1,13 @@
+@charset "UTF-8";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+     
+}
+.trabalho{
+     background: linear-gradient(to bottom, #ffffff, #777777);
+
+}
