@@ -11,3 +11,17 @@ body{
      background: linear-gradient(to bottom, #ffffff, #777777);
 
 }
+.pagination{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+.info{
+    height: 200px;
+    margin-left: 40%;
+    align-items: center;
+    justify-content: center;
+
+}
